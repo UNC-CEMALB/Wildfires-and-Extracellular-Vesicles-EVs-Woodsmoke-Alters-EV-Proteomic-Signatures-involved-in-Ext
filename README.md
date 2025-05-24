@@ -1,13 +1,17 @@
 # Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models 
 
-> As wildfires become more common, this study sought to investigate how extracellular vesicles (EVs) are impacted by in vitro smoke exposure from various biomasses.
+This script was generated to support the manuscript titled 'Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models', published in 2025 in Environmental Research (PMID: 39571711). doi: https://doi.org/10.1016/j.envres.2024.120395 
 
+<p align="center">
+<img src = 'https://github.com/user-attachments/assets/9d5e4050-dbce-4fd6-afef-a067f8456be2' width = '600'>
+</p>
+
+<br>
+> As wildfires become more common, this study sought to investigate how extracellular vesicles (EVs) are impacted by in vitro smoke exposure from various biomasses.
 
 > All analyses in this folder are designated by their figure number or table number in the manuscript in parantheses.
 
 In the instance that the files are unable to rendered, click [here](https://nbviewer.org/github/UNC-CEMALB/Wildfires-and-Extracellular-Vesicles-EVs-Woodsmoke-Alters-EV-Proteomic-Signatures-involved-in-Ext/tree/main/) to view the code. 
-
-This script was generated to support the manuscript titled 'Wildfires and Extracellular Vesicles (EVs): Woodsmoke Alters EV Proteomic Signatures involved in Extracellular Matrix Degradation and Tissue Injury in Airway Organotypic Models', published in 2025 in Environmental Research (PMID: 39571711). doi: https://doi.org/10.1016/j.envres.2024.120395 
 
 # 1. Data Extraction
 - Extracting particle concentrations to compare between treatment groups (co-culture and tri-culture) in a visualization later on
