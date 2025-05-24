@@ -7,6 +7,7 @@ This script was generated to support the manuscript titled 'Wildfires and Extrac
 </p>
 
 <br>
+
 > As wildfires become more common, this study sought to investigate how extracellular vesicles (EVs) are impacted by in vitro smoke exposure from various biomasses.
 
 > All analyses in this folder are designated by their figure number or table number in the manuscript in parantheses.
